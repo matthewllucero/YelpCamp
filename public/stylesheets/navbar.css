@@ -1,0 +1,7 @@
+.fake {
+    background-color: aqua;
+}
+
+.fake.h1 {
+    color: red;
+}
